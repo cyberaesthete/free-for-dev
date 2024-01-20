@@ -888,6 +888,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 
   * [FreeCodeCamp](https://www.freecodecamp.org/) - Open-source platform offering free courses and certifications in Data Analysis, Information Security, Web Development, and more.
   * [The Odin Project](https://www.theodinproject.com/) - Free, open-source platform with a curriculum focused on JavaScript and Ruby for web development.
+  * [Exercism](https://exercism.org/) - Develop fluency in 67 programming languages with a unique blend of learning, practice and mentoring.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
